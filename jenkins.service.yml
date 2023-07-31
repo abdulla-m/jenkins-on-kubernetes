@@ -15,7 +15,7 @@ spec:
     - port: 80
       name: jenkins-port
       targetPort: 8080
-      nodePort: 38377
+      nodePort: 32000
     - port: 50000
       name: container-port
       targetPort: 50000
