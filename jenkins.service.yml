@@ -29,7 +29,7 @@ metadata:
   namespace: devops-tools
 spec:
   rules:
-    - host: myjenkins.com
+    - host: local-jenkins.com
       http:
         paths: 
           - path: /
